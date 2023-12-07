@@ -19,7 +19,7 @@ export default function MuiTypography() {
         minus!
       </Typography>
 
-      {/*By default Typography component use body1 as a variant*/}
+      {/* by default Typography component use body1 as a variant */}
       <Typography>
         body1 - By default Typography component use body1 as a variant
       </Typography>
@@ -29,12 +29,12 @@ export default function MuiTypography() {
         Fugiat, dicta!
       </Typography>
 
-      {/* If we want styles of h4 component but element should be h1 */}
+      {/* if we want styles of h4 component but element should be h1 */}
       <Typography variant="h4" component="h1">
         I am h1 element but having styles of h4 component
       </Typography>
 
-      {/* If I want margin bottom, By default gutterBottom value is false */}
+      {/* if I want margin bottom, By default gutterBottom value is false */}
       <Typography variant="h4" component="h1" gutterBottom>
         I am h1 element but having styles of h4 component, also added margin
         bottom with gutterBottom
