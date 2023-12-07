@@ -1,0 +1,29 @@
+# WHAT IS MATERIAL UI =>
+
+    * UI component library.
+    * Provides us with components to build awesome user interfaces in quick time.
+    * Implementation of Google's material design specification.
+    * Other materials :
+        i. Angular Material : Angular
+        ii. Material UI : React
+        iii. Vuetify : Vue
+
+
+# PREREQUISITES =>
+
+    * HTML
+    * CSS
+    * Javascript
+    * Basic knowledge of React
+
+# COURSE STRUCTURE =>
+
+    * Install MUI in a react application.
+    * Typography.
+    * Components :
+        i. Inputs/Form controls.
+        ii. Layout.
+        iii. Navigation.
+        iv. Data display and feedback.
+        v. MUI Lab.
+    * MUI Customization.
