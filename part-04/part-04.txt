@@ -1,5 +1,0 @@
-# BUTTON
-# COLOR OF BUTTON
-# SIZE OF BUTTON
-# INSTALL ICON =>
-    npm install @mui/icons-material

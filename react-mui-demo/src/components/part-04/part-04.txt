@@ -1,0 +1,2 @@
+# INSTALL MATERIAL ICONS :
+    npm install @mui/icons-material
